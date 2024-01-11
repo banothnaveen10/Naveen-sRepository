@@ -1,0 +1,3 @@
+pulic HelloWorld2
+{
+}
