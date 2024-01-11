@@ -4,4 +4,16 @@
         <members>HelloWorld1</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Book__c.Price__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Book__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Book__c-Book Layout</members>
+        <name>Layout</name>
+    </types>
 </Package>
