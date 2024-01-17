@@ -1,10 +1,21 @@
 {
   "packageDirectories" : [ {
     "path" : "force-app",
-    "default" : true
+    "default" : false
+  }, {
+    "path" : "Naveen_Modularization",
+    "default" : true,
+    "package" : "Naveen_Modularization",
+    "scopeProfiles" : "false",
+    "versionName" : "Naveen_Modularization",
+    "versionNumber" : "1.0.0.0"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "59.0",
+  "packageAliases" : {
+    "Naveen_Modularization" : "0Ho5j000000CbU2CAK",
+    "Naveen_Modularization@1.0.0.0" : "04t5j000000dxzQAAQ"
+  },
   "name" : "src"
 }
