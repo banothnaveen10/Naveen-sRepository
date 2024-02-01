@@ -2,6 +2,8 @@
     <version>59.0</version>
     <types>
         <members>MySampleApexClass</members>
+        <members>StringManipulator</members>
+        <members>StringManipulatorTest</members>
         <name>ApexClass</name>
     </types>
     <types>
