@@ -8,6 +8,12 @@
     </types>
     <types>
         <members>Naveenflow1</members>
+        <members>Naveenflow2</members>
         <name>Flow</name>
+    </types>
+    <types>
+        <members>Naveenflow1</members>
+        <members>Naveenflow2</members>
+        <name>FlowDefinition</name>
     </types>
 </Package>
