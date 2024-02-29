@@ -9,7 +9,6 @@
     <types>
         <members>Book__c.Licence_Picklist__c</members>
         <members>Book__c.Price__c</members>
-        <members>Book__c.TestPicklist__c</members>
         <name>CustomField</name>
     </types>
     <types>
