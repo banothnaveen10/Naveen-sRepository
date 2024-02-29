@@ -7,6 +7,16 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Book__c.Price__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Book__c</members>
+        <members>CustomObject__c</members>
+        <members>Pen__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Naveenflow1</members>
         <members>Naveenflow2</members>
         <name>Flow</name>
