@@ -18,6 +18,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>welcome</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>Naveenflow1</members>
         <members>Naveenflow2</members>
         <name>Flow</name>
@@ -26,5 +30,9 @@
         <members>Naveenflow1</members>
         <members>Naveenflow2</members>
         <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>Salesforce API Only System Integrations</members>
+        <name>Profile</name>
     </types>
 </Package>
