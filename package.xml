@@ -32,6 +32,10 @@
         <name>FlowDefinition</name>
     </types>
     <types>
+        <members>JuanTestPermissionTest</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>Salesforce API Only System Integrations</members>
         <name>Profile</name>
     </types>
