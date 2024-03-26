@@ -5,7 +5,7 @@
         <field>Book__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <hasActivationRequired>false</hasActivationRequired>
+    <hasActivationRequired>true</hasActivationRequired>
     <label>JuanTestPermissionTest</label>
     <license>Salesforce</license>
     <objectPermissions>
