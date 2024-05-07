@@ -10,6 +10,7 @@
     <types>
         <members>JuanTestPermissionTest</members>
         <members>PermissionSet1</members>
+        <members>permissionset2</members>
         <name>PermissionSet</name>
     </types>
     <types>
