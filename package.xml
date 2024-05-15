@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>59.0</version>
+    <version>60.0</version>
     <types>
         <members>AccountHandler</members>
         <members>AccountWrapperDemo</members>
@@ -34,6 +34,10 @@
         <members>Naveenflow1</members>
         <members>Naveenflow2</members>
         <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>Account-PageLayout1</members>
+        <name>Layout</name>
     </types>
     <types>
         <members>Opportunity.New_List_View</members>
