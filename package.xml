@@ -50,6 +50,7 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>Custom_Profile</members>
         <members>MergeConflictCheckProfile</members>
         <members>Salesforce API Only System Integrations</members>
         <name>Profile</name>
