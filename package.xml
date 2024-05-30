@@ -11,6 +11,14 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>GeApplienceFlowLabel</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>GeApplienceFlowLabel</members>
+        <name>FlowDefinition</name>
+    </types>
+    <types>
         <members>JuanTestPermissionTest</members>
         <members>PermissionSet1</members>
         <members>permissionset2</members>
