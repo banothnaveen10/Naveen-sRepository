@@ -2,6 +2,7 @@
     <version>59.0</version>
     <types>
         <members>AccountManager</members>
+        <members>AccountManagerTest</members>
         <members>CaseHandler</members>
         <members>MySampleApexClass</members>
         <members>StringManipulator</members>
