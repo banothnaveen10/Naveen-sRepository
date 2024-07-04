@@ -21,6 +21,7 @@
     <types>
         <members>Book__c</members>
         <members>CustomObject__c</members>
+        <members>NewCustomObject1__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -46,6 +47,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>NewCustomObject1__c.All</members>
         <members>Opportunity.New_List_View</members>
         <name>ListView</name>
     </types>
