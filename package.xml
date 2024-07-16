@@ -9,6 +9,7 @@
         <members>HelloWorld</members>
         <members>MySampleApexClass</members>
         <members>OpportunityHandler</members>
+        <members>RectangleCalculator</members>
         <members>StringManipulator</members>
         <members>StringManipulatorTest</members>
         <name>ApexClass</name>
