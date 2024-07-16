@@ -6,6 +6,7 @@
         <members>AccountWrapperDemo</members>
         <members>CaseHandler</members>
         <members>ContactHandler</members>
+        <members>Employee</members>
         <members>HelloWorld</members>
         <members>MySampleApexClass</members>
         <members>OpportunityHandler</members>
