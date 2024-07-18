@@ -5,7 +5,7 @@ public class Employee {
     private String department;
     private Decimal monthlySalary;
 
-    // Constructor to initialize employee here is the change I have  made change here details
+    // This is change
     public Employee(String empName, String dept, Decimal salary) {
         this.name = empName;
         this.department = dept;
