@@ -5,7 +5,7 @@ public class Employee {
     private String department;
     private Decimal monthlySalary;
 
-    // Here is the change I have Made
+    // Change
     public Employee(String empName, String dept, Decimal salary) {
         this.name = empName;
         this.department = dept;
